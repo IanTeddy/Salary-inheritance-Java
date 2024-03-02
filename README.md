@@ -1,1 +1,1 @@
-# 💼 Salary-inheritance-Java
+# 💼 Salary inheritance Java Project
